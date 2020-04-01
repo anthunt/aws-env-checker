@@ -18,7 +18,7 @@
 	   <repository>
 	     <id>github</id>
 	     <name>GitHub OWNER Apache Maven Packages</name>
-	     <url>https://maven.pkg.github.com/anthunt/poi-helper</url>
+	     <url>https://maven.pkg.github.com/anthunt/aws-env-checker</url>
 	   </repository>
 	</distributionManagement>
     
